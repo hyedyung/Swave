@@ -1,0 +1,117 @@
+@charset "utf-8";
+
+
+
+
+#head{
+     border-bottom: 3px solid #33d6a7;
+    display: none;
+}
+h2{
+    font-size: 20px;
+    padding: 15px 100px;
+    position: relative;
+    color: #00b4bd;
+}
+h2 i{
+    position: absolute;
+    left: 210px;
+    top: 19px;
+    color:#00b4bd;
+}
+
+#cont{
+    margin-top: 50px;
+}
+.image{
+    background: #ccc;
+    height: 500px;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+}
+.image img{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.image span{
+    width: 100%;
+    display: block;
+    position: absolute;
+    left: 20%;
+    top: 35%;
+    font-size: 40px;
+    color: #000;
+    text-shadow: 0 0 10px #dcf4f8;
+}
+.image span em{
+    color: #002e70;
+    font-size: 70px;
+    text-shadow: 0 0 10px #dcf4f8;
+}
+.desc{
+    width: 80%;
+    margin: 50px auto 100px;
+   
+}
+.desc h3{
+   padding: 30px;
+    font-size: 25px;
+    
+}
+.desc h3 p{
+    border-top: 1px solid #dbdbdb;
+    display: block;
+    padding-top: 30px;
+    font-size: 20px;
+    margin-top: 5px;
+    line-height: 1.7;
+    text-align: justify; 
+
+}
+.desc h4{
+    padding: 30px;
+    font-size: 25px;
+}
+.desc h4>ul{
+     border-top: 1px solid #dbdbdb;
+    margin-top: 5px;
+}
+.desc h4>ul>li{
+     padding-top: 30px;
+    font-size: 20px;
+    text-align: justify; 
+
+}
+.desc h5{
+    padding: 30px;
+    font-size: 25px;
+}
+.desc h5 p{
+    margin-top: 5px;
+     border-top: 1px solid #dbdbdb;
+     padding-top: 20px;
+    display: block;
+    font-size: 20px;
+    text-align: justify; 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
